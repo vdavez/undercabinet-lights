@@ -1,7 +1,6 @@
 import machine
 import neopixel
 import time
-import math
 
 # Get potentiometer reading
 adc = machine.ADC(26)
